@@ -1,0 +1,3 @@
+box.addEventListener("DOMContentLoaded", function(){
+    
+})
